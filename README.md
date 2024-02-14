@@ -1,2 +1,2 @@
-# projects
-Project based note taking
+# Today I Learned
+Note-taking inspired by [simonw/til](https://github.com/simonw/til)
