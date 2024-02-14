@@ -1,4 +1,6 @@
-This is a good definition on RAGs in the world of LLMs
+# How searches with RAGs work
+
+A good intro
 
 > In practice, the process is a bit more involved:
 > 
